@@ -1,0 +1,10 @@
+path: /home/rica/Documents/dataset700/dataset_v2
+
+train: images/train
+val: images/val
+
+names:
+  0: glass
+  1: metal
+  2: paper
+  3: plastic

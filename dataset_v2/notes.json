@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "glass"
+    },
+    {
+      "id": 1,
+      "name": "metal"
+    },
+    {
+      "id": 2,
+      "name": "paper"
+    },
+    {
+      "id": 3,
+      "name": "plastic"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
